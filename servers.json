@@ -1,0 +1,10 @@
+{
+  "id": "my-server",
+  "name": "My NeoForge Server",
+  "minecraftVersion": "1.21.10",
+  "loader": {
+    "type": "neoforge",
+    "version": "21.10.64"
+  },
+  "manifest": "manifest.json"
+}

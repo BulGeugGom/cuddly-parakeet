@@ -1,0 +1,15 @@
+{
+  "id": "my-server",
+  "name": "Healing Camp",
+  "description": "Healing Camp NeoForge Mod Server",
+  "version": "1.0.0",
+  "gameVersion": "1.21.1",
+  "loader": {
+    "type": "neoforge",
+    "version": "21.1.0"
+  },
+  "java": {
+    "version": "21"
+  },
+  "files": []
+}
